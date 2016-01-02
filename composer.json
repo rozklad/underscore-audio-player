@@ -1,0 +1,24 @@
+{
+  "name": "sanatorium/underscore-audio-player",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Custom Audio Player made for underscore.co.uk",
+  "homepage": "https://sanatorium.ninja",
+  "authors": [
+    {
+      "name": "rozklad",
+      "email": "jan.rozklad@gmail.com",
+      "homepage": "https://rozklad.me"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://github.com/rozklad/underscore-audio-player/issues"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "~1.0"
+  }
+}
